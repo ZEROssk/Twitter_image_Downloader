@@ -8,7 +8,7 @@
 // @version     1.0
 // @grant       none
 // @license     The Unlicense
-// @updateURL   
+// @updateURL   https://github.com/ZEROssk/Twitter_image_Downloader/raw/master/twitter_img_downloader.user.js
 // ==/UserScript==
 
 (function() {
